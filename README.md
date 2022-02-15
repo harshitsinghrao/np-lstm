@@ -1,5 +1,5 @@
 # np-lstm
-Spam detection using a LSTM Network. The LSTM Network is made from scratch using numpy.  
+Spam detection using a LSTM Network. The LSTM Network is created using numpy.  
 
 ## Dataset
 Steps to use the dataset.
